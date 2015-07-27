@@ -1,0 +1,12 @@
+body {
+	font-family: helvetica;
+}
+
+h1 {
+	text-align: center;
+}
+
+#game-canvas {
+    display: block;
+    margin: 0 auto;
+}
